@@ -5,6 +5,10 @@
 Product 1 is going to revolutionize the keyboard
 ### Product 2 (coming soon)
 Product 2 is going to innovate the mouse
+### Product 3 (coming soon)
+Product 3 is going to leave the music industry completely and utterly gobsmacked
+### Product 4 (coming soon)
+Product 4 is going to take the recently revolutionized keyboard industry and further revolutionize it
 ### Additional products
 N8ech is secretive about any products that aren't out. Development of products that are not ready for mass consumption is NOT PUBLISHED and not divulged outside of a small group of beta testers. Please do not ask
 
